@@ -1,0 +1,2 @@
+# HR-Analytics
+HR analytics dashboard in Power BI to track employee attrition and other key performance indicators (KPIs).This will help to identify trends and patterns in employee turnover, so we can take steps to reduce it. We used Power BI to track other KPIs, such as employee satisfaction and productivity, to get a complete picture of my workforce. This information can help us to make informed decisions about your HR strategy and improve your company's bottom line.
